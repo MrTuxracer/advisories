@@ -15,6 +15,7 @@ This is the central place for my security advisories. Also published over at htt
 | CVE-2014-2206  | GetGo Download Manager HTTP Response Header Buffer Overflow Remote Code Execution                                                                                |
 | CVE-2014-7216  | Yahoo! Messenger emoticons.xml Multiple Key Value Handling Local Buffer Overflow                                                                                 |
 | CVE-2015-5956  | Typo3 Core sanitizeLocalUrl() Non-Persistent Cross-Site Scripting                                                                                                |
+| CVE-2016-4469 | Apache Archiva 1.3.9 Multiple Cross-Site Request Forgeries |
 | CVE-2016-5005  | Apache Archiva 1.3.9 admin/addProxyConnector_commit.action connector.sourceRepoId Persistent Cross-Site Scripting                                                |
 | CVE-2016-6913  | AlienVault USM/OSSIM 5.2 conf/reload.php "back" DOM-based Cross-Site Scripting                                                                                   |
 | CVE-2016-6914  | Ubiquiti UniFi Video v3.7.3 (Windows) Local Privileges Escalation via Insecure Directory Permissions                                                             |
