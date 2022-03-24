@@ -37,34 +37,33 @@ This is the central place for my security advisories. Also published over at htt
 
 The following vulnerabilities don't have a CVE assigned (I've been too lazy sometimes)
 
-| Release Date                                                                      | Title                                                                                                                  | 
-|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| 3 May 2016 | Swagger Editor v2.9.9 "description" Key DOM-based Cross-Site Scripting                                                 |
-| 20 Nov 2016 | AppFusions Doxygen for Atlassian Confluence v1.3.2 renderContent() Persistent Cross-Site Scripting                     |
-| 23 Feb 2016 | Ubiquiti Networks UniFi v3.2.10 Generic CSRF Protection Bypass                                                         |
+| Release Date                                                                     | Title                                                                                                                  | 
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | 18 Jan 2017 | Mattermost <= 3.5.1 "/error" Unauthenticated Reflected Cross-Site Scripting / Content Injection                        |
-| 11 Sep 2016 | XenForo ToggleME 3.1.2 "/admin.php?options/list/Add mortoggleME" Multiple Persistent Cross-Site Scriptings             |
-| 14 Jan 2013 | Serva v2.0.0 DNS Server Remote Denial of Service                                                                       |
-| 19 Feb 2014 | VideoCharge Studio v2.12.3.685 cc.dll CHTTPResponse::GetHttpResponse() Buffer Overflow Remote Code Execution           |
+| 20 Nov 2016 | AppFusions Doxygen for Atlassian Confluence v1.3.2 renderContent() Persistent Cross-Site Scripting                     |
 | 20 Nov 2016 | AppFusions Doxygen for Atlassian Confluence v1.3.0 getTemporaryDirectory() tempId Path Traversal/Remote Code Execution |
-| 21 May 2016 | Postfix Admin v2.93 Generic POST Cross-Site Request Forgeries                                                          |
+| 23 Feb 2016 | Ubiquiti Networks UniFi v3.2.10 Generic CSRF Protection Bypass                                                         |
+| 11 Sep 2016 | XenForo ToggleME 3.1.2 "/admin.php?options/list/Add mortoggleME" Multiple Persistent Cross-Site Scriptings             |
 | 23 May 2016 | XenAPI v1.4.1 for XenForo Multiple Unauthenticated SQL Injections                                                      |
-| 16 Feb 2013 | Photodex ProShow Producer v5.0.3297 PXT File title Value Handling Buffer Overflow                                      |
-| 19 March 2013 | Photodex ProShow Producer v5.0.3310 ScsiAccess Local Privilege Escalation                                              |
-| 2 Jul 2012 | Photodex ProShow Producer v5.0.3256 Local Buffer Overflow Vulnerability                                                |
-| 16 Sep 2012 | NCMedia Sound Editor Pro v7.5.1 MRUList201202.dat File Handling Local Buffer Overflow                                  |
-| 14 Jan 2013 | Serva v2.0.0 HTTP Server GET Remote Denial of Service                                                                  |
+| 21 May 2016 | Postfix Admin v2.93 Generic POST Cross-Site Request Forgeries                                                          |
+| 3 May 2016 | Swagger Editor v2.9.9 "description" Key DOM-based Cross-Site Scripting                                                 |
+| 19 Feb 2014 | VideoCharge Studio v2.12.3.685 cc.dll CHTTPResponse::GetHttpResponse() Buffer Overflow Remote Code Execution           |
 | 19 Mar 2013 | Photodex ProShow Producer v5.0.3310 ScsiAccess Local Privilege Escalation                                              |
-| 24 Aug 2012 | Aoop CMS v0.3.6 Multiple Vulnerabilities                                                                               |
-| 14 Feb 2013 | Photodex ProShow Producer v5.0.3297 ColorPickerProc() Memory Corruption                                                |
+| 16 Feb 2013 | Photodex ProShow Producer v5.0.3297 PXT File title Value Handling Buffer Overflow                                      |
 | 23 Feb 2013 | Photodex ProShow Producer v5.0.3297 Insecure Library Loading Vulnerability                                             |
+| 14 Feb 2013 | Photodex ProShow Producer v5.0.3297 ColorPickerProc() Memory Corruption                                                |
+| 14 Jan 2013 | Serva v2.0.0 DNS Server Remote Denial of Service                                                                       |
+| 14 Jan 2013 | Serva v2.0.0 HTTP Server GET Remote Denial of Service                                                                  |                                                                           |
+| 16 Sep 2012 | NCMedia Sound Editor Pro v7.5.1 MRUList201202.dat File Handling Local Buffer Overflow                                  |
+| 24 Aug 2012 | Aoop CMS v0.3.6 Multiple Vulnerabilities|  
+| 2 Jul 2012 | Photodex ProShow Producer v5.0.3256 Local Buffer Overflow Vulnerability                                                |
+| 30 Mar 2012 | Bitsmith PS Knowbase 3.2.3 - Buffer Overflow Vulnerability                                                             |
 | 8 Mar 2012 | Ilient SysAid v8.5.05 - Multiple Web Vulnerabilities                                                                   | 
 | 8 Mar 2012 | Pitrinec MacroToolworks 7.5 - Buffer Overflow Vulnerability                                                            |
-| 30 Mar 2012 | Bitsmith PS Knowbase 3.2.3 - Buffer Overflow Vulnerability                                                             |
 | 8 Mar 2012 | Enterasys SecureStack Switch v6.x - Multiple Vulnerabilities                                                           |
-| 8 Apr 2012 | AnvSoft Any Video Converter 4.3.6 - Multiple Buffer Overflow Vulnerabilities                                           |
 | 11 Apr 2012 | Crystal Office Suite v1.43 - Buffer Overflow Vulnerability                                                             |
 | 10 Apr 2012 | FileStream Turbo Browser v11.6 - Buffer Overflow                                                                       |
-| 01 Apr 2012 | BulletProof FTP Client 2010 - Buffer Overflow Vulnerability                                                            |
+| 8 Apr 2012 | AnvSoft Any Video Converter 4.3.6 - Multiple Buffer Overflow Vulnerabilities                                           |
+| 1 Apr 2012 | BulletProof FTP Client 2010 - Buffer Overflow Vulnerability                                                            |
 | 26 Feb 2012 | Socusoft Photo2Video 8.05 - Buffer Overflow Vulnerability                                                              |
 | 21 Feb 2012 | DAMN Hash Calculator 1.5.1 Heap Overflow                                                                               |
