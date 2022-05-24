@@ -3,6 +3,7 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE            | Title                                                                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CVE-2022-0779 | UserMeta “um_show_uploaded_file” Path Traversal / Local File Enumeration                                                                                                     |
 | CVE-2021-42063 | SAP Knowledge Warehouse <= 7.50 “SAPIrExtHelp” Reflected XSS                                                                                                     |
 | CVE-2020-25204 | God Kings "com.innogames.core.frontend.notifications.receivers.LocalNotificationBroadcastReceiver" Improper Authorization Allowing In-Game Notification Spoofing |
 | CVE-2020-25203 | Frame Preview "com.framer.viewer.FramerViewActivity" Arbitrary URL Loading                                                                                       |
