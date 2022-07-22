@@ -3,7 +3,7 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE            | Title                                                                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CVE-2022-25812 | Transposh <= 1.0.8.1 “save_transposh” Missing Logfile Extension Check Leading to Authenticated Code Injection                                                    |
+| CVE-2022-25812 | Transposh <= 1.0.8.1 “save_transposh” Missing Logfile Extension Check Leading to Code Injection                                                                  |
 | CVE-2022-25811 | Transposh <= 1.0.8.1 “tp_editor” Multiple Authenticated SQL Injections                                                                                           |
 | CVE-2022-25810 | Transposh <= 1.0.8.1 Improper Authorization Allowing Access to Administrative Utilities                                                                          |
 | CVE-2022-2462  | Transposh <= 1.0.8.1 “tp_history” Unauthenticated Information Disclosure                                                                                         |
