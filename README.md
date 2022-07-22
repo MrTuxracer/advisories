@@ -14,7 +14,7 @@ This is the central place for my security advisories. Also published over at htt
 | CVE-2021-40149 | Reolink E1 Zoom Camera <= 3.0.0.716 Unauthenticated Private Key Disclosure                                                                                       |
 | CVE-2021-24912 | Transposh <= 1.0.8.1 Multiple Cross-Site Request Forgeries                                                                                                       |
 | CVE-2021-24911 | Transposh <= 1.0.7 “tp_translation” Unauthenticated Stored Cross-Site                                                                                            |
-| CVE-2021-24910 | Transposh <= 1.0.7  “tp_tp” Unauthenticated Reflected Cross-Site Scripting                                                                                       |
+| CVE-2021-24910 | Transposh <= 1.0.7 “tp_tp” Unauthenticated Reflected Cross-Site Scripting                                                                                        |
 | CVE-2020-25204 | God Kings "com.innogames.core.frontend.notifications.receivers.LocalNotificationBroadcastReceiver" Improper Authorization Allowing In-Game Notification Spoofing |
 | CVE-2020-25203 | Frame Preview "com.framer.viewer.FramerViewActivity" Arbitrary URL Loading                                                                                       |
 | CVE-2020-16171 | Acronis Cyber Backup <= v12.5 Build 16341 Full Unauthenticated SSRF                                                                                              |
