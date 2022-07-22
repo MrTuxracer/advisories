@@ -5,15 +5,15 @@ This is the central place for my security advisories. Also published over at htt
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CVE-2022-25811  | Transposh <= 1.0.8.1 “tp_editor” Multiple Authenticated SQL Injections                                                                                           |
 | CVE-2022-25810  | Transposh <= 1.0.8.1 Improper Authorization Allowing Access to Administrative Utilities                                                                          |
-| CVE-2022-2462   | Transposh <= 1.0.8.1 “tp_history” Unauthenticated Information                                                                                                    |
+| CVE-2022-2462   | Transposh <= 1.0.8.1 “tp_history” Unauthenticated Information Disclosure                                                                                         |
 | CVE-2022-2461   | Transposh <= 1.0.8.1 “tp_translation” Weak Default Translation Permissions                                                                                       |
 | CVE-2022-0779   | User Meta “um_show_uploaded_file” Path Traversal / Local File Enumeration                                                                                        |
 | CVE-2021-42063  | SAP Knowledge Warehouse <= 7.50 “SAPIrExtHelp” Reflected XSS                                                                                                     |
 | CVE-2021-40150  | Reolink E1 Zoom Camera <= 3.0.0.716 Unauthenticated Web Server Configuration Disclosure                                                                          |
 | CVE-2021-40149  | Reolink E1 Zoom Camera <= 3.0.0.716 Unauthenticated Private Key Disclosure                                                                                       |
-| CVE-2021-24912  | Transposh <= 1.0.8.1 Multiple Cross-Site Request                                                                                                                 |
+| CVE-2021-24912  | Transposh <= 1.0.8.1 Multiple Cross-Site Request Forgeries                                                                                                       |
 | CVE-2021-24911  | Transposh <= 1.0.7 “tp_translation” Unauthenticated Stored Cross-Site                                                                                            |
-| CVE-2021-24910  | Transposh <= 1.0.7  “tp_tp” Unauthenticated Reflected XSS                                                                                                        |
+| CVE-2021-24910  | Transposh <= 1.0.7  “tp_tp” Unauthenticated Reflected Cross-Site Scripting                                                                                       |
 | CVE-2020-25204  | God Kings "com.innogames.core.frontend.notifications.receivers.LocalNotificationBroadcastReceiver" Improper Authorization Allowing In-Game Notification Spoofing |
 | CVE-2020-25203  | Frame Preview "com.framer.viewer.FramerViewActivity" Arbitrary URL Loading                                                                                       |
 | CVE-2020-16171  | Acronis Cyber Backup <= v12.5 Build 16341 Full Unauthenticated SSRF                                                                                              |
