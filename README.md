@@ -3,7 +3,7 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE            | Title                                                                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CVE-2022-25810 | Transposh <= 1.0.8.1 Improper Authorization Allowing Access to Administrative                                                                                    |
+| CVE-2022-25810 | Transposh <= 1.0.8.1 Improper Authorization Allowing Access to Administrative Utilities                                                                          |
 | CVE-2022-2462  | Transposh <= 1.0.8.1 “tp_history” Unauthenticated Information                                                                                                    |
 | CVE-2022-2461  | Transposh <= 1.0.8.1 “tp_translation” Weak Default Translation Permissions                                                                                       |
 | CVE-2022-0779  | User Meta “um_show_uploaded_file” Path Traversal / Local File Enumeration                                                                                        |
