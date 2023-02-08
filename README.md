@@ -3,6 +3,7 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE            | Title                                                                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CVE-2023-0292  | Quiz And Survey Master <= 8.0.8 - Cross-Site Request Forgery to Arbitrary Media Deletion                                                                         |
 | CVE-2023-0291  | Quiz And Survey Master <= 8.0.8 - Unauthenticated Arbitrary Media Deletion                                                                                       |
 | CVE-2022-21225 | Intel Data Center Manager Console <= 4.1 “getRoomRackData" Authenticated SQL Injection                                                                           |
 | CVE-2022-33942 | Intel Data Center Manager Console <= 4.1.1.45749 ”UserMgmtHandler" Authentication Logic Error Leading to Authentication Bypass                                   |
