@@ -27,6 +27,17 @@ This is the central place for my security advisories. Also published over at htt
 | CVE-2020-16171 | Acronis Cyber Backup <= v12.5 Build 16341 Full Unauthenticated SSRF                                                                                              |
 | CVE-2020-12827 | MJML <= 4.6.2 mj-include "path" Path Traversal                                                                                                                   |
 | CVE-2020-11882 | o2 Business for Android "canvasm.myo2.SplashActivity" <= 1.2.0 Open Redirect                                                                                     |
+| CVE-2020-2870  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2871  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2872  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2873  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2874  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2876  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2877  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2878  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2879  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2880  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
+| CVE-2020-2881  | Oracle E-Business Suite <= 12.2.9 (Undisclosed)                                                                                                                  |
 | CVE-2019-12517 | SlickQuiz for Wordpress 1.3.7.1 "/wp-admin/admin.php?page=slickquiz" Multiple Stored XSS                                                                         |
 | CVE-2019-12516 | SlickQuiz for Wordpress 1.3.7.1 "/wp-admin/admin.php?page=slickquiz-*" Multiple Authenticated SQL Injections                                                     |
 | CVE-2019-11604 | Quest KACE Systems Management Appliance <= 9.0 kbot_service_notsoap.php METHOD Reflected Cross-Site Scripting                                                    |
