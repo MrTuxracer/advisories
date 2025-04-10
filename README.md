@@ -7,6 +7,7 @@ This is the central place for my security advisories. Also published over at htt
 | CVE-2023-29459  | FC Red Bull Salzburg App "at.redbullsalzburg.android.AppMode.Default.Splash.SplashActivity" Arbitrary URL Loading                                                |
 | CVE-2023-22897  | SecurePoint UTM <= 12.2.5 “spcgi.cgi” Remote Memory Contents Information Disclosure                                                                              |
 | CVE-2023-22620  | SecurePoint UTM <= 12.2.5 “spcgi.cgi” sessionId Information Disclosure Allowing Device Takeover                                                                  |
+| CVE-2023-6542   | SAP Emarsys SDK for Android <= 3.6.1 Sensitive Data Leak |
 | CVE-2023-0292   | Quiz And Survey Master <= 8.0.8 - Cross-Site Request Forgery to Arbitrary Media Deletion                                                                         |
 | CVE-2023-0291   | Quiz And Survey Master <= 8.0.8 - Unauthenticated Arbitrary Media Deletion                                                                                       |
 | CVE-2022-40685  | Intel Data Center Manager *undisclosed*                                                                                                                          |
