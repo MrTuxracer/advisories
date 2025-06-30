@@ -3,6 +3,10 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE             | Title                                                                                                                                                            |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CVE-2025-47813  | Wing FTP Server Local Path Disclosure Through Overlong UID Session Cookie                                                                                        |
+| CVE-2025-47812  | Wing FTP Server Arbitrary Code Injection in User Session Files Leading to Remote Code Execution.                                                                 |
+| CVE-2025-47811  | Wing FTP Server Incorrect Default Permission for FTP Service Account                                                                                             |
+| CVE-2025-27889  | Wing FTP Server Arbitrary Link Injection Leading to Cleartext Password Disclosure                                                                                |
 | CVE-2023-31273  | Intel Data Center Manager *undisclosed*                                                                                                                          |
 | CVE-2023-29459  | FC Red Bull Salzburg App "at.redbullsalzburg.android.AppMode.Default.Splash.SplashActivity" Arbitrary URL Loading                                                |
 | CVE-2023-22897  | SecurePoint UTM <= 12.2.5 “spcgi.cgi” Remote Memory Contents Information Disclosure                                                                              |
