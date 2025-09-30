@@ -3,6 +3,10 @@ This is the central place for my security advisories. Also published over at htt
 ## Advisories with CVE
 | CVE             | Title                                                                                                                                                            |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CVE-2025-27225  | Rocket Software TRUfusion Enterprise internal_admin_contact_login.jsp Unauthenticated PII Disclosure                                                             |
+| CVE-2025-27224  | Rocket Software TRUfusion Enterprise /trufusionPortal/fileupload Unauthenticated Path Traversal and Arbitrary File Write                                         |
+| CVE-2025-27223  | Rocket Software TRUfusion Enterprise Use os Static Encryption Key to Create Session Cookies                                                                      |
+| CVE-2025-27222  | Rocket Software TRUfusion Enterprise "cobrandingImageName" Unauthenticated Path Traversal                                                                        |
 | CVE-2025-47813  | Wing FTP Server Local Path Disclosure Through Overlong UID Session Cookie                                                                                        |
 | CVE-2025-47812  | Wing FTP Server Arbitrary Code Injection in User Session Files Leading to Remote Code Execution.                                                                 |
 | CVE-2025-47811  | Wing FTP Server Incorrect Default Permission for FTP Service Account                                                                                             |
